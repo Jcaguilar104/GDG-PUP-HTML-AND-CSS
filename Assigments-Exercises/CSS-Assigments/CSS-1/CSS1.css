@@ -1,0 +1,13 @@
+h1{
+    font-family: sans-serif; 
+    font-size: 48px;
+    color: #1877f2; /* Facebook Blue */
+    text-align: center;
+    
+  }
+
+ p{
+    font-size: 20px;
+    color: #333; /* Dark Gray */
+    text-align: center;
+   }
